@@ -1,0 +1,15 @@
+D:\Programs\Unity\Projects\ConsApp\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\Programs\Unity\Projects\ConsApp\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\Programs\Unity\Projects\ConsApp\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\Programs\Unity\Projects\ConsApp\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\Programs\Unity\Projects\ConsApp\ConsoleApp1\bin\Debug\net6.0\ref\ConsoleApp1.dll
+D:\Programs\Unity\Projects\ConsApp\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\Programs\Unity\Projects\ConsApp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Programs\Unity\Projects\ConsApp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Unity\Projects\ConsApp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Programs\Unity\Projects\ConsApp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\Programs\Unity\Projects\ConsApp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Programs\Unity\Projects\ConsApp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\Programs\Unity\Projects\ConsApp\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+D:\Programs\Unity\Projects\ConsApp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\Programs\Unity\Projects\ConsApp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
